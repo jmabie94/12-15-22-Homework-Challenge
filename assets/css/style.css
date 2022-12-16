@@ -74,10 +74,11 @@ p {
 }
 
 .content {
-    width: 75%;
+    /* width: 75%;
     display: inline-block;
     margin-left: 22.5%;
-    margin-right: 2.5%;
+    margin-right: 2.5%; */
+    display: flex;
 }
 
 .Portfolio {
@@ -105,13 +106,18 @@ p {
 
 .BigBox img {
     object-fit: cover;
-    height: 600px;
-    width: 600px;
+    /* height: 600px; */
+    width: 100%;
+    margin-top: 10px;
 }
 
-.BigBox a {
+/* .BigBox a {
     padding-bottom: 10px;
-}
+} */
+
+/* .BigBox div a {
+    font-size: 20px;
+} */
 
 .Boxes {
     border-style: solid;
@@ -119,36 +125,30 @@ p {
     border-width: 1px;
     padding: 10px;
     margin: 20px;
-    flex: 0 0 300px;
+    flex: 0 0 45%;
     box-shadow: 0px 5px black;
 }
 
 .Boxes img {
-    object-fit: contain;
-    height: 300px;
-    width: 300px;
+    object-fit: cover;
+    height: auto;
+    width: 100%;
+    margin-top: 10px;
 }
+
+
 
 .History {
-    width: 75%;
+    /* width: 75%;
     display: inline-block;
     margin-left: 22.5%;
-    margin-right: 2.5%;
-}
-
-.LeftSide {
-    padding: 20px;
-    clear: both;
-    display: inline-block;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 24px;
-    /* border-right: 6px #2589bd; */
+    margin-right: 2.5%; */
+    display: flex;
 }
 
 article {
     margin-bottom: 20px;
+    margin-top: 20px;
     padding: 50px;
     height: auto;
     justify-content: right;
@@ -163,19 +163,27 @@ article h3 {
     margin-bottom: 5px;
     color: #48a9a6;
     background-color: #e4dfda;
-    border-radius: 20px;
+    border-radius: 5px;
     text-align: center;
-    max-height: max-content;
+    max-width: fit-content;
 }
 
 aside {
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
     color: #2589bd;
+    display: flex;
+    flex: 0 0 20%;
+    justify-content: right;
+    align-items: flex-start;
+    border-right: 5px solid black;
+    margin-right: 5px;
 }
 
 aside h2 {
-    margin-bottom: 10px;
-    text-align: end;
+    margin: 25px;
+    font-size: 20px;
+    text-decoration: underline;
+    /* text-align: end; */
 }
 
 .footer {
