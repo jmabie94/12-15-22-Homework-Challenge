@@ -8,3 +8,4 @@ A screenshot of how the HTML index was showing in Google Chrome can be found at 
 ![Screenshot of My Partially Complete Portfolio](assets/images/screenshot-for-12-15-22-homework-challenge.png.png)
 
 A link to the deployed application (partially complete) can be found below:
+https://jmabie94.github.io/12-15-22-Homework-Challenge/
