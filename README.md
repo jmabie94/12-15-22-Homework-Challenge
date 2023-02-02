@@ -14,5 +14,7 @@ A screenshot of how the HTML index was showing in Google Chrome can be found at 
 A screenshot of how the HTML index was showing in Google Chrome after 12/19/22 update can be found at the following location:
 ![Screenshot of My Updated Portfolio as of 12/19/22](assets/images/screenshot-for-12-15-22-homework-challenge-update-2.png)
 
+Updated: 2/1/23 with the First Group Project added!
+
 A link to the deployed application (partially complete) can be found below:
 https://jmabie94.github.io/12-15-22-Homework-Challenge/
