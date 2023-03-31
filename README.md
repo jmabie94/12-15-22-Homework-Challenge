@@ -16,5 +16,7 @@ A screenshot of how the HTML index was showing in Google Chrome after 12/19/22 u
 
 Updated: 2/1/23 with the First Group Project added!
 
+Updated: 3/30/23 with the Second Group Project added!
+
 A link to the deployed application (partially complete) can be found below:
 https://jmabie94.github.io/12-15-22-Homework-Challenge/
